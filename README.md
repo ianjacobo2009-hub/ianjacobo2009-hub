@@ -22,10 +22,9 @@ I founded Blue Peak to help small businesses use AI automation and better financ
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### 📊 GitHub stats
+### 🔥 GitHub streak
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ianjacobo2009-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianjacobo2009-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianjacobo2009-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🌎 Also into
