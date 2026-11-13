@@ -18,6 +18,7 @@ I founded Blue Peak to help small businesses use AI automation and better financ
 | 🛡️ **[COPGuard](https://github.com/ianjacobo2009-hub/copguard)** | COP/USD exchange-rate risk: GARCH volatility, 10,000-path Monte Carlo VaR, hedging and stress tests on 20 years of official data |
 | 📈 **[Market Pulse](https://github.com/ianjacobo2009-hub/marketpulse)** | Daily market dashboard: 20 live markets, a fear–greed score, 7 quantitative signals and an AI-written summary |
 | 💳 **[BlueCredit](https://github.com/ianjacobo2009-hub/bluecredit)** | Spanish loan simulator: the real effective annual rate, a debt-to-income check with all your debts, a usury warning and a PDF summary |
+| 🏠 **[MortgageIQ](https://github.com/ianjacobo2009-hub/mortgageiq)** | Mortgage calculator for Colombia and the USA in Spanish and English: correct E.A. and UVR math, PMI/FHA/ARM, affordability checks, rent vs buy and a PDF summary |
 
 ### 🧰 Tools I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
