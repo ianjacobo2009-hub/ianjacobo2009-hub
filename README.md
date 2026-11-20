@@ -6,7 +6,8 @@
 High school senior in Colombia 🇨🇴. I build things where **math, finance and AI** meet, and I like taking a project all the way from the question to working code.
 
 ### 🔭 What I'm working on
-- **[Less Diversified, Riskier, or Both?](https://github.com/ianjacobo2009-hub/sp500-paper)**: a research paper on how the AI giants changed the S&P 500. I froze the index at ChatGPT's launch to measure what their growth did to diversification and risk, using 28 SEC filings and 9 years of daily prices.
+- **Less Diversified, Riskier, or Both?**: a research paper (co-authored, code and data coming soon) on how the AI giants changed the S&P 500. I froze the index at ChatGPT's launch to measure what their growth did to diversification and risk, using 28 SEC filings and 9 years of daily prices.
+- **[IV Surface](https://github.com/ianjacobo2009-hub/iv-surface)** ([live site](https://ianjacobo2009-hub.github.io/iv-surface/)): a rotating 3D implied volatility surface built from live option chains (Black-Scholes + Brent's method), rebuilt automatically every weekday, with a desktop app and a CLI.
 - **Arthur**: my personal AI assistant, with voice chat, a morning briefing, calendar and email triage, and control of my TV. Built with Python, shell and Claude.
 - **Rescue Map**: an app that maps emergency help routes in Cali.
 
@@ -28,11 +29,6 @@ I founded Blue Peak to help small businesses use AI automation and better financ
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 🔥 GitHub streak
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianjacobo2009-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ### 🌎 Also into
 Model UN, history and politics, electronics and engineering.
