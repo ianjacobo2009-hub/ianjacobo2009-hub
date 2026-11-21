@@ -12,6 +12,9 @@ High school senior in Colombia 🇨🇴. I build things where **math, finance an
 - **Arthur**: my personal AI assistant, with voice chat, a morning briefing, calendar and email triage, and control of my TV. Built with Python, shell and Claude.
 - **Rescue Map**: an app that maps emergency help routes in Cali.
 
+### 📚 Currently learning
+- **CS50x**, Harvard's Introduction to Computer Science: C, Python, SQL and web development, working toward the final project
+
 ### 🏔️ Blue Peak AI & Finance Solutions
 I founded Blue Peak to help small businesses use AI automation and better financial tools.
 
